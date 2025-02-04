@@ -1,0 +1,14 @@
+# Ignore LaTeX
+*.tex
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# Ignore temporary files (e.g., from text editors)
+*.swp
+*.bak
+
+# Ignore images
+*.jpg
+*.png
